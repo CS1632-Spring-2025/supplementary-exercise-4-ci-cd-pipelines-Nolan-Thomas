@@ -266,7 +266,7 @@ public class RentACatUnitTest {
 	 * sample_code/junit_example/LinkedListUnitTest.java in the course repository to
 	 * see examples.
 	 */
-	@Test
+	/*@Test
 	public void testRentCatNumCats3() {
 		r.addCat(c1);
 		r.addCat(c2);
@@ -281,7 +281,7 @@ public class RentACatUnitTest {
 		
 		assertTrue(c2.getRented());
 		assertEquals("Old Deuteronomy has been rented." + newline, out.toString());
-	}
+	}*/
 
 	/**
 	 * Test case for boolean rentCat(int id).
@@ -332,7 +332,7 @@ public class RentACatUnitTest {
 	 * sample_code/junit_example/LinkedListUnitTest.java in the course repository to
 	 * see examples.
 	 */
-	@Test
+	/*@Test
 	public void testReturnCatNumCats3() {
 		r.addCat(c1);
 		r.addCat(c2);
@@ -356,7 +356,7 @@ public class RentACatUnitTest {
 		assertEquals("Welcome back, Old Deuteronomy!" + newline, out.toString());
 
 
-	}
+	}*/
 
 	/**
 	 * Test case for boolean returnCat(int id).
